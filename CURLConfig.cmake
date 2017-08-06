@@ -1,3 +1,6 @@
+# Copyright (c) 2017, Ruslan Baratov
+# All rights reserved.
+
 if(TARGET CURL::libcurl)
   return()
 endif()
